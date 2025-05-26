@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub profile
 
 <!--
 **hziegel/hziegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a full stack developer and data scientist currently looking for work in Los Angeles or fully remote. I love machine learning, data analytics, data engineering, and cooking soup for my friends.
+
+You can best reach me by email at hziegel@gmail.com. Cheers!
