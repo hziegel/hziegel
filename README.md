@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a full stack developer and data scientist currently looking for work in Los Angeles or fully remote. I love machine learning, data analytics, data engineering, and cooking soup for my friends.
+I'm a full stack developer and data scientist currently looking for full time work around the Silicon Valley / San Francisco area. I have a background in data visualization, machine learning and full stack app development as well as visual art and communications.
 
-You can best reach me by email at hziegel@gmail.com. Cheers!
+You can best reach me by email at hziegel@gmail.com.
+Check out my website at https://hziegel.github.io/
+
+Cheers!
